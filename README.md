@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
 
-$${\color{red} <H align='center' >HELLO,IM RUBY ROSE</H> }$$
+$${\color{red} <H align='center' >HELLO,IM  RUBY  ROSE</H> }$$
     
 <img src="https://rdby.000webhostapp.com/pngegg.png" alt="Rwby Ruby Rose">
 
