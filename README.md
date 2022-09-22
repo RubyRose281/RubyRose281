@@ -9,7 +9,7 @@ $${\color{red} <H align='center' >HELLO,IM RUBY ROSE</H> }$$
 <img src="https://rdby.000webhostapp.com/pngegg.png" alt="Rwby Ruby Rose">
 
 <details>
-    <summary><b>All Socmed Link</b></summary><br/>
+    <summary><b>All Social Media Link</b></summary><br/>
 <p align='center'><a href="https://rdby.000webhostapp.com/SocialMedia.html"><img src="https://rdby.000webhostapp.com/ruby.png" width="150" alt="Socmed"/></a></p>
 </details>
 
