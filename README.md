@@ -19,7 +19,7 @@ $${\color{red} <H align='center' >HELLO,IM RUBY ROSE</H> }$$
 </details>
 
   <p align='center'>
-  <img height="200" src="https://raw.githubusercontent.com/RubyRose281/RubyRose281/main/root.svg"></p>
+  <img height="306" src="https://raw.githubusercontent.com/RubyRose281/RubyRose281/main/root.svg"></p>
   <p align='center'>
   <img height="150" src="https://raw.githubusercontent.com/RubyRose281/RubyRose281/main/speed.svg"></p>
         
