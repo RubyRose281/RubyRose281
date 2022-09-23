@@ -9,6 +9,13 @@ $${\color{red} <H align='center' >HELLO,IM RUBY ROSE</H> }$$
 <img src="https://rdby.000webhostapp.com/pngegg.png" alt="Rwby Ruby Rose">
 
 <details>
+<a body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-image: url("https://rdby.000webhostapp.com/pngegg.png");
+}
+</a>
     <summary><b>All Social Media Link</b></summary><br/>
 <p align='center'><a href="https://linktr.ee/rudby281"><img src="https://rdby.000webhostapp.com/ruby.png" width="150" alt="Socmed"/></a></p>
 </details>
