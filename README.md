@@ -10,7 +10,7 @@ $${\color{red} <H align='center' >HELLO,IM RUBY ROSE</H> }$$
 
 <details>
     <summary><b>All Social Media Link</b></summary><br/>
-<p align='center'><a href="https://rdby.000webhostapp.com/SocialMedia.html"><img src="https://rdby.000webhostapp.com/ruby.png" width="150" alt="Socmed"/></a></p>
+<p align='center'><a href="https://linktr.ee/rudby281"><img src="https://rdby.000webhostapp.com/ruby.png" width="150" alt="Socmed"/></a></p>
 </details>
 
 <details>
