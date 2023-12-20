@@ -16,7 +16,7 @@ $${\color{red} <H align='center' >HELLO,IM RUBY ROSE</H> }$$
   background-image: url("https://rdby.000webhostapp.com/pngegg.png");
 }
 </a>
-    <summary><b>All Social Media Link</b></summary><br/>
+    <summary><b>Donation</b></summary><br/>
 <p align='center'><a href="https://linktr.ee/rudby281"><img src="https://rdby.000webhostapp.com/ruby.png" width="150" alt="Socmed"/></a></p>
 </details>
 
